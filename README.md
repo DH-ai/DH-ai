@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dhruv Chaturvedi</h1>
-<h3 align="center">A sophomore at IITB, Doing major in Aerospace Engineering. I'm passionate about rockets, computers, and aerodynamics, and I enjoy exploring sci-fi concepts. I'm keen on pushing the boundaries of both technology and imagination.</h3>
+<h2 align="center">Hi 👋, I'm Dhruv Chaturvedi</h1>
 
 - 🔭 I’m currently working on [Telemetor](https://github.com/DH-ai/Telemetor)
 
